@@ -25,3 +25,6 @@ dist-ssr
 
 .config/
 !.env
+
+# Exclude embedded repositories
+drive-wolswagen/
